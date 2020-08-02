@@ -1,2 +1,2 @@
-to run this program please install python 3
-u can use any ide (idle recommended)
+## A simple Python GUI application built using Thinkter
+## U can use any ide (idle recommended)
